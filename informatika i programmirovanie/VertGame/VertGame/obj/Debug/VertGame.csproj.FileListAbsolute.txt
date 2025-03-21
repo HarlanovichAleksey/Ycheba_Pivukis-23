@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\VertGame\VertGame\obj\Debug\VertGame.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\VertGame\VertGame\obj\Debug\VertGame.Properties.Resources.resources
+C:\Users\Admin\source\repos\VertGame\VertGame\obj\Debug\VertGame.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\VertGame\VertGame\obj\Debug\VertGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VertGame\VertGame\bin\Debug\VertGame.exe.config
+C:\Users\Admin\source\repos\VertGame\VertGame\bin\Debug\VertGame.exe
+C:\Users\Admin\source\repos\VertGame\VertGame\bin\Debug\VertGame.pdb
+C:\Users\Admin\source\repos\VertGame\VertGame\obj\Debug\VertGame.Form1.resources
+C:\Users\Admin\source\repos\VertGame\VertGame\obj\Debug\VertGame.exe
+C:\Users\Admin\source\repos\VertGame\VertGame\obj\Debug\VertGame.pdb
